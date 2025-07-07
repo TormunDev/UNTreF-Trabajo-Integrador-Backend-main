@@ -1,0 +1,182 @@
+[
+    {
+      "codigo": 6512,
+      "nombre": "Sofá de Cuero",
+      "precio": 999.99,
+      "categoria": ["Sala de estar", "Muebles"]
+    },
+    {
+      "codigo": 3145,
+      "nombre": "Escritorio de Madera",
+      "precio": 499.99,
+      "categoria": ["Oficina en casa", "Muebles"]
+    },
+    {
+      "codigo": 9878,
+      "nombre": "Cama Queen Size",
+      "precio": 799.99,
+      "categoria": ["Dormitorio", "Muebles"]
+    },
+    {
+      "codigo": 2233,
+      "nombre": "Mesa de Comedor de Vidrio",
+      "precio": 699.99,
+      "categoria": ["Comedor", "Muebles"]
+    },
+    {
+      "codigo": 8456,
+      "nombre": "Estantería Modular regulable",
+      "precio": 199.99,
+      "categoria": ["Oficina en casa", "Muebles"]
+    },
+    {
+      "codigo": 1789,
+      "nombre": "Armario multiestante",
+      "precio": 89.99,
+      "categoria": ["Dormitorio", "Muebles"]
+    },
+    {
+      "codigo": 7321,
+      "nombre": "Silla de Oficina Ergonómica",
+      "precio": 149.99,
+      "categoria": ["Oficina en casa", "Muebles"]
+    },
+    {
+      "codigo": 4990,
+      "nombre": "Mesa de Centro de Madera",
+      "precio": 149.99,
+      "categoria": ["Sala de estar", "Muebles"]
+    },
+    {
+      "codigo": 5001,
+      "nombre": "Bahiut",
+      "precio": 299.99,
+      "categoria": ["Dormitorio", "Muebles"]
+    },
+    {
+      "codigo": 1122,
+      "nombre": "Silla de Comedor",
+      "precio": 79.99,
+      "categoria": ["Comedor", "Muebles"]
+    },
+    {
+      "codigo": 6334,
+      "nombre": "Sofá Cama",
+      "precio": 699.99,
+      "categoria": ["Sala de estar", "Muebles"]
+    },
+    {
+      "codigo": 3987,
+      "nombre": "Escritorio de Esquina",
+      "precio": 599.99,
+      "categoria": ["Oficina en casa", "Muebles"]
+    },
+    {
+      "codigo": 9012,
+      "nombre": "Cama Individual",
+      "precio": 399.99,
+      "categoria": ["Dormitorio", "Muebles"]
+    },
+    {
+      "codigo": 2876,
+      "nombre": "Mesa de Comedor de Madera",
+      "precio": 299.99,
+      "categoria": ["Comedor", "Muebles"]
+    },
+    {
+      "codigo": 8098,
+      "nombre": "Biblioteca Estilo Industrial",
+      "precio": 249.99,
+      "categoria": ["Oficina en casa", "Muebles"]
+    },
+    {
+      "codigo": 1543,
+      "nombre": "Armario para Ropa",
+      "precio": 499.99,
+      "categoria": ["Dormitorio", "Muebles"]
+    },
+    {
+      "codigo": 7567,
+      "nombre": "Silla de Escritorio Giratoria",
+      "precio": 99.99,
+      "categoria": ["Oficina en casa", "Muebles"]
+    },
+    {
+      "codigo": 4001,
+      "nombre": "Mesa con Centro de Vidrio",
+      "precio": 199.99,
+      "categoria": ["Sala de estar", "Muebles"]
+    },
+    {
+      "codigo": 5210,
+      "nombre": "Cómoda de Madera",
+      "precio": 349.99,
+      "categoria": ["Dormitorio", "Muebles"]
+    },
+    {
+      "codigo": 1337,
+      "nombre": "Silla Acolchada",
+      "precio": 59.99,
+      "categoria": ["Comedor", "Muebles"]
+    },
+    {
+      "codigo": 6890,
+      "nombre": "Sillón Reclinable",
+      "precio": 799.99,
+      "categoria": ["Sala de estar", "Muebles"]
+    },
+    {
+      "codigo": 3445,
+      "nombre": "Biblioteca de Madera",
+      "precio": 449.99,
+      "categoria": ["Oficina en casa", "Muebles"]
+    },
+    {
+      "codigo": 9778,
+      "nombre": "Cama King Size",
+      "precio": 999.99,
+      "categoria": ["Dormitorio", "Muebles"]
+    },
+    {
+      "codigo": 2010,
+      "nombre": "Mesa de Comedor Extensible",
+      "precio": 799.99,
+      "categoria": ["Comedor", "Muebles"]
+    },
+    {
+      "codigo": 8332,
+      "nombre": "Escritorio de Cristal",
+      "precio": 299.99,
+      "categoria": ["Oficina en casa", "Muebles"]
+    },
+    {
+      "codigo": 1999,
+      "nombre": "Armario de Almacenamiento",
+      "precio": 249.99,
+      "categoria": ["Dormitorio", "Muebles"]
+    },
+    {
+      "codigo": 7007,
+      "nombre": "Silla Plegable",
+      "precio": 49.99,
+      "categoria": ["Comedor", "Muebles"]
+    },
+    {
+      "codigo": 4664,
+      "nombre": "Sofá Modular",
+      "precio": 1199.99,
+      "categoria": ["Sala de estar", "Muebles"]
+    },
+    {
+      "codigo": 5555,
+      "nombre": "Mesa de Trabajo",
+      "precio": 349.99,
+      "categoria": ["Oficina en casa", "Muebles"]
+    },
+    {
+      "codigo": 1001,
+      "nombre": "Cómoda con Espejo",
+      "precio": 599.99,
+      "categoria": ["Dormitorio", "Muebles"]
+    }
+  ]  

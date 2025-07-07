@@ -1,0 +1,182 @@
+[
+    {
+      "codigo": 7301,
+      "nombre": "Jeans Denim",
+      "precio": 59.99,
+      "categoria": ["Jeans", "Ropa", "Pantalones"]
+    },
+    {
+      "codigo": 2415,
+      "nombre": "Remera Algodón",
+      "precio": 19.99,
+      "categoria": ["Remeras", "Ropa"]
+    },
+    {
+      "codigo": 8843,
+      "nombre": "Camisa Manga Larga",
+      "precio": 34.99,
+      "categoria": ["Camisas", "Ropa"]
+    },
+    {
+      "codigo": 5129,
+      "nombre": "Vestido de Gala",
+      "precio": 129.99,
+      "categoria": ["De gala", "Ropa", "Vestidos"]
+    },
+    {
+      "codigo": 1984,
+      "nombre": "Pantalón de Vestir",
+      "precio": 49.99,
+      "categoria": ["Pantalones", "Ropa", "Formal"]
+    },
+    {
+      "codigo": 6032,
+      "nombre": "Blusa Estampada",
+      "precio": 24.99,
+      "categoria": ["Blusas", "Ropa"]
+    },
+    {
+      "codigo": 3776,
+      "nombre": "Camiseta Deportiva",
+      "precio": 14.99,
+      "categoria": ["Remeras", "Ropa", "Deportivo"]
+    },
+    {
+      "codigo": 9258,
+      "nombre": "Chaqueta Cuero",
+      "precio": 89.99,
+      "categoria": ["Chaquetas", "Ropa"]
+    },
+    {
+      "codigo": 4310,
+      "nombre": "Sudadera con Capucha",
+      "precio": 39.99,
+      "categoria": ["Sudaderas", "Ropa"]
+    },
+    {
+      "codigo": 1111,
+      "nombre": "Pantalón Corto Deportivo",
+      "precio": 29.99,
+      "categoria": ["Pantalones", "Ropa", "Deportivo"]
+    },
+    {
+      "codigo": 6874,
+      "nombre": "Blazer Rayas",
+      "precio": 74.99,
+      "categoria": ["Blazers", "Ropa", "Formal"]
+    },
+    {
+      "codigo": 2598,
+      "nombre": "Falda Plisada",
+      "precio": 44.99,
+      "categoria": ["Faldas", "Ropa"]
+    },
+    {
+      "codigo": 8135,
+      "nombre": "Vestido Floral",
+      "precio": 64.99,
+      "categoria": ["Vestidos", "Ropa"]
+    },
+    {
+      "codigo": 4762,
+      "nombre": "Shorts Vaqueros",
+      "precio": 29.99,
+      "categoria": ["Pantalones", "Ropa", "Jeans"]
+    },
+    {
+      "codigo": 3055,
+      "nombre": "Blusa de Seda",
+      "precio": 54.99,
+      "categoria": ["Blusas", "Ropa"]
+    },
+    {
+      "codigo": 9503,
+      "nombre": "Pantalón Palazzo",
+      "precio": 49.99,
+      "categoria": ["Pantalones", "Ropa"]
+    },
+    {
+      "codigo": 1289,
+      "nombre": "Vestido Largo",
+      "precio": 79.99,
+      "categoria": ["Vestidos", "Ropa"]
+    },
+    {
+      "codigo": 5437,
+      "nombre": "Blusa de Encaje",
+      "precio": 39.99,
+      "categoria": ["Blusas", "Ropa"]
+    },
+    {
+      "codigo": 7891,
+      "nombre": "Camiseta Gráfica",
+      "precio": 19.99,
+      "categoria": ["Remeras", "Ropa"]
+    },
+    {
+      "codigo": 2146,
+      "nombre": "Saco Tejido",
+      "precio": 64.99,
+      "categoria": ["Sacos", "Ropa"]
+    },
+    {
+      "codigo": 8320,
+      "nombre": "Jeans Skinny",
+      "precio": 54.99,
+      "categoria": ["Jeans", "Ropa", "Pantalones"]
+    },
+    {
+      "codigo": 3698,
+      "nombre": "Vestido de Encaje",
+      "precio": 94.99,
+      "categoria": ["Vestidos", "Ropa"]
+    },
+    {
+      "codigo": 9741,
+      "nombre": "Pantalón Cargo",
+      "precio": 39.99,
+      "categoria": ["Pantalones", "Ropa"]
+    },
+    {
+      "codigo": 1500,
+      "nombre": "Chaleco de Mezclilla",
+      "precio": 49.99,
+      "categoria": ["Chalecos", "Ropa"]
+    },
+    {
+      "codigo": 6321,
+      "nombre": "Blusa Manga Larga",
+      "precio": 29.99,
+      "categoria": ["Blusas", "Ropa"]
+    },
+    {
+      "codigo": 4999,
+      "nombre": "Falda Midi",
+      "precio": 44.99,
+      "categoria": ["Faldas", "Ropa"]
+    },
+    {
+      "codigo": 2001,
+      "nombre": "Pantalón Jogger",
+      "precio": 34.99,
+      "categoria": ["Pantalones", "Ropa", "Deportivo"]
+    },
+    {
+      "codigo": 7564,
+      "nombre": "Vestido de Punto",
+      "precio": 49.99,
+      "categoria": ["Vestidos", "Ropa"]
+    },
+    {
+      "codigo": 3118,
+      "nombre": "Shorts de Mezclilla",
+      "precio": 29.99,
+      "categoria": ["Pantalones", "Ropa", "Jeans"]
+    },
+    {
+      "codigo": 8642,
+      "nombre": "Blusa Asimétrica",
+      "precio": 34.99,
+      "categoria": ["Blusas", "Ropa"]
+    }
+]  

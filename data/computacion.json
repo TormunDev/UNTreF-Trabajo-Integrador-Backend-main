@@ -1,0 +1,182 @@
+[
+    {
+      "codigo": 8101,
+      "nombre": "Desktop Gaming",
+      "precio": 999.99,
+      "categoria": ["Desktop", "Computación"]
+    },
+    {
+      "codigo": 5243,
+      "nombre": "Laptop Ultrabook",
+      "precio": 1299.99,
+      "categoria": ["Portátiles", "Computación"]
+    },
+    {
+      "codigo": 1789,
+      "nombre": "Teclado Mecánico",
+      "precio": 89.99,
+      "categoria": ["Accesorios", "Computación"]
+    },
+    {
+      "codigo": 9032,
+      "nombre": "Impresora Multifuncional",
+      "precio": 199.99,
+      "categoria": ["Impresoras", "Computación"]
+    },
+    {
+      "codigo": 4567,
+      "nombre": "Memoria RAM",
+      "precio": 79.99,
+      "categoria": ["Partes de computadoras", "Computación"]
+    },
+    {
+      "codigo": 6210,
+      "nombre": "Monitor Curvo",
+      "precio": 299.99,
+      "categoria": ["Monitores", "Computación"]
+    },
+    {
+      "codigo": 3344,
+      "nombre": "Mouse Inalámbrico",
+      "precio": 29.99,
+      "categoria": ["Accesorios", "Computación"]
+    },
+    {
+      "codigo": 7890,
+      "nombre": "Disco Duro Externo",
+      "precio": 99.99,
+      "categoria": ["Accesorios", "Computación"]
+    },
+    {
+      "codigo": 2456,
+      "nombre": "Tarjeta de Video",
+      "precio": 249.99,
+      "categoria": ["Partes de computadoras", "Computación"]
+    },
+    {
+      "codigo": 8888,
+      "nombre": "Tableta Gráfica",
+      "precio": 199.99,
+      "categoria": ["Accesorios", "Computación"]
+    },
+    {
+      "codigo": 1234,
+      "nombre": "All-in-One PC",
+      "precio": 899.99,
+      "categoria": ["Desktop", "Computación"]
+    },
+    {
+      "codigo": 5678,
+      "nombre": "Laptop Convertible",
+      "precio": 799.99,
+      "categoria": ["Portátiles", "Computación"]
+    },
+    {
+      "codigo": 9101,
+      "nombre": "Mouse Ergonómico",
+      "precio": 39.99,
+      "categoria": ["Accesorios", "Computación"]
+    },
+    {
+      "codigo": 2109,
+      "nombre": "Impresora de Etiquetas",
+      "precio": 149.99,
+      "categoria": ["Impresoras", "Computación"]
+    },
+    {
+      "codigo": 8765,
+      "nombre": "Disco SSD",
+      "precio": 129.99,
+      "categoria": ["Partes de computadoras", "Computación"]
+    },
+    {
+      "codigo": 3456,
+      "nombre": "Monitor 4K",
+      "precio": 499.99,
+      "categoria": ["Monitores", "Computación"]
+    },
+    {
+      "codigo": 6543,
+      "nombre": "Webcam Full HD",
+      "precio": 69.99,
+      "categoria": ["Accesorios", "Computación"]
+    },
+    {
+      "codigo": 1987,
+      "nombre": "Router Gigabit",
+      "precio": 79.99,
+      "categoria": ["Accesorios", "Computación"]
+    },
+    {
+      "codigo": 4321,
+      "nombre": "Tarjeta de Red Ethernet",
+      "precio": 19.99,
+      "categoria": ["Partes de computadoras", "Computación"]
+    },
+    {
+      "codigo": 7654,
+      "nombre": "Teclado Retroiluminado",
+      "precio": 59.99,
+      "categoria": ["Accesorios", "Computación"]
+    },
+    {
+      "codigo": 2890,
+      "nombre": "Desktop Todo en Uno",
+      "precio": 699.99,
+      "categoria": ["Desktop", "Computación"]
+    },
+    {
+      "codigo": 5123,
+      "nombre": "Laptop Gamer",
+      "precio": 1499.99,
+      "categoria": ["Portátiles", "Computación"]
+    },
+    {
+      "codigo": 9876,
+      "nombre": "Altavoces 2.1",
+      "precio": 89.99,
+      "categoria": ["Accesorios", "Computación"]
+    },
+    {
+      "codigo": 3210,
+      "nombre": "Impresora Láser",
+      "precio": 299.99,
+      "categoria": ["Impresoras", "Computación"]
+    },
+    {
+      "codigo": 6789,
+      "nombre": "Fuente de Alimentación",
+      "precio": 129.99,
+      "categoria": ["Partes de computadoras", "Computación"]
+    },
+    {
+      "codigo": 1478,
+      "nombre": "Monitor Ultrawide",
+      "precio": 599.99,
+      "categoria": ["Monitores", "Computación"]
+    },
+    {
+      "codigo": 5824,
+      "nombre": "Cámara Web",
+      "precio": 49.99,
+      "categoria": ["Accesorios", "Computación"]
+    },
+    {
+      "codigo": 9345,
+      "nombre": "Router Mesh",
+      "precio": 129.99,
+      "categoria": ["Accesorios", "Computación"]
+    },
+    {
+      "codigo": 4096,
+      "nombre": "Tarjeta de Sonido",
+      "precio": 49.99,
+      "categoria": ["Partes de computadoras", "Computación"]
+    },
+    {
+      "codigo": 7070,
+      "nombre": "Teclado Inalámbrico",
+      "precio": 39.99,
+      "categoria": ["Accesorios", "Computación"]
+    }
+]  

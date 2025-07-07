@@ -1,0 +1,97 @@
+@api_url = http://localhost:3000/api
+
+###
+# TRABAJO INTEGRADOR: API de Productos
+#
+# Este archivo contiene ejemplos de solicitudes para probar todos los endpoints
+# de la API de productos.
+#
+# Para usarlo, asegúrate de tener la extensión "REST Client" en Visual Studio Code.
+#
+# NOTA: Los códigos de los productos y valores de productos pueden variar 
+# dependiendo de cuál archivo JSON elijas para poblar tu base de datos. 
+# Ajusta los valores de :codigo y otros campos según sea necesario.
+
+###
+# --- CRUD Básico ---
+
+### 1. Obtener todos los productos
+# Devuelve la lista completa de productos.
+GET {{api_url}}/productos
+Accept: application/json
+
+### 2. Obtener un producto por su código
+# Reemplaza '1' con un código de producto que exista en tu base de datos.
+GET {{api_url}}/productos/224
+Accept: application/json
+
+### 2.1 Obtener un producto con un código inexistente (debería dar 404)
+GET {{api_url}}/productos/9999
+Accept: application/json
+
+### 3. Crear un nuevo producto
+# Este endpoint agrega un nuevo producto.
+# Asegúrate de que el 'codigo' sea único.
+POST {{api_url}}/productos
+Content-Type: application/json
+
+{
+    "codigo": 224,
+    "nombre": "Teclado Luminoso RGB",
+    "precio": 65.50,
+    "categoria": ["Accesorios", "Computación", "Gaming"]
+}
+
+### 4. Modificar un producto existente
+# Reemplaza '1' con un código de producto que exista.
+# Solo se necesita enviar los campos a modificar.
+PUT {{api_url}}/productos/1
+Content-Type: application/json
+
+{
+    "precio": 950.00
+}
+
+### 5. Eliminar un producto
+# Reemplaza '2' con un código de producto que desees eliminar.
+DELETE {{api_url}}/productos/224
+Accept: application/json
+
+
+###
+# --- Endpoints Adicionales ---
+
+### 6. Buscar productos por término
+# Busca productos que contengan 'Laptop' en su nombre.
+GET {{api_url}}/productos/buscar?q=Laptop
+Accept: application/json
+
+### 7. Filtrar productos por categoría
+# Busca productos que pertenezcan a la categoría 'Accesorios'.
+GET {{api_url}}/productos/categoria/Accesorios
+Accept: application/json
+
+### 8. Filtrar productos por rango de precio
+# Busca productos con precios entre 100 y 500.
+GET {{api_url}}/productos/precio/100-500
+Accept: application/json
+
+### 9. Carga masiva de productos
+# Agrega múltiples productos en una sola petición.
+POST {{api_url}}/productos/masivo
+Content-Type: application/json
+
+[
+    {
+        "codigo": 201,
+        "nombre": "Monitor Gamer 27 pulgadas",
+        "precio": 399.99,
+        "categoria": ["Monitores", "Computación", "Gaming"]
+    },
+    {
+        "codigo": 202,
+        "nombre": "Silla Gamer Ergonómica",
+        "precio": 249.50,
+        "categoria": ["Mobiliario", "Gaming"]
+    }
+]

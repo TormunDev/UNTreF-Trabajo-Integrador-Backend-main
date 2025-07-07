@@ -1,0 +1,182 @@
+[
+    {
+      "codigo": 1011,
+      "nombre": "Manzana",
+      "precio": 1.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 2022,
+      "nombre": "Naranja",
+      "precio": 1.49,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 3033,
+      "nombre": "Banana",
+      "precio": 0.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 4044,
+      "nombre": "Pera",
+      "precio": 1.79,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 5055,
+      "nombre": "Sandía",
+      "precio": 3.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 6066,
+      "nombre": "Melón",
+      "precio": 2.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 7077,
+      "nombre": "Uva",
+      "precio": 2.49,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 8088,
+      "nombre": "Mango",
+      "precio": 2.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 9099,
+      "nombre": "Fresa",
+      "precio": 2.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 1101,
+      "nombre": "Kiwi",
+      "precio": 1.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 2202,
+      "nombre": "Pomelo",
+      "precio": 1.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 3303,
+      "nombre": "Cereza",
+      "precio": 3.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 4404,
+      "nombre": "Limón",
+      "precio": 0.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 5505,
+      "nombre": "Mandarina",
+      "precio": 1.29,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 6606,
+      "nombre": "Aguacate",
+      "precio": 2.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 7707,
+      "nombre": "Piña",
+      "precio": 2.49,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 8808,
+      "nombre": "Papaya",
+      "precio": 2.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 9909,
+      "nombre": "Mora",
+      "precio": 3.49,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 1212,
+      "nombre": "Ciruela",
+      "precio": 1.99,
+      "categoria": ["Fruta", "Granja"]
+    },
+    {
+      "codigo": 2323,
+      "nombre": "Acelga",
+      "precio": 1.99,
+      "categoria": ["Verdura", "Granja"]
+    },
+    {
+      "codigo": 3434,
+      "nombre": "Zanahoria",
+      "precio": 0.99,
+      "categoria": ["Verdura", "Granja"]
+    },
+    {
+      "codigo": 4545,
+      "nombre": "Lechuga",
+      "precio": 1.29,
+      "categoria": ["Verdura", "Granja"]
+    },
+    {
+      "codigo": 5656,
+      "nombre": "Pimiento",
+      "precio": 1.49,
+      "categoria": ["Verdura", "Granja"]
+    },
+    {
+      "codigo": 6767,
+      "nombre": "Tomate",
+      "precio": 1.99,
+      "categoria": ["Verdura", "Granja"]
+    },
+    {
+      "codigo": 7878,
+      "nombre": "Espinaca",
+      "precio": 1.79,
+      "categoria": ["Verdura", "Granja"]
+    },
+    {
+      "codigo": 8989,
+      "nombre": "Berenjena",
+      "precio": 1.49,
+      "categoria": ["Verdura", "Granja"]
+    },
+    {
+      "codigo": 9191,
+      "nombre": "Calabacín",
+      "precio": 1.29,
+      "categoria": ["Verdura", "Granja"]
+    },
+    {
+      "codigo": 1313,
+      "nombre": "Papa",
+      "precio": 1.49,
+      "categoria": ["Verdura", "Granja"]
+    },
+    {
+      "codigo": 2424,
+      "nombre": "Cebolla",
+      "precio": 0.99,
+      "categoria": ["Verdura", "Granja"]
+    },
+    {
+      "codigo": 3535,
+      "nombre": "Espárrago",
+      "precio": 2.99,
+      "categoria": ["Verdura", "Granja"]
+    }
+  ]  
