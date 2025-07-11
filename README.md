@@ -1,3 +1,9 @@
+# Godoy Daniel Leandro UNTREF-backend
+
+Me presento profes `FabioDrizZt`,`JuanNebbia`. Desde el principio todo esto fue dificil para mi pero  di todo mi esfuerzo como para lograr algun resultado, me ayude de todos lados para ver si podia llegar a armar algo y este fue mi resultado. Me gustaria que entiendan que comence desde cero.
+
+
+
 # Trabajo Integrador: API REST de Productos 🛍️
 
 ¡Hola a todos!
